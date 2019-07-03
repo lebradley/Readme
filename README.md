@@ -8,13 +8,11 @@ I joined AND in October 2017. I'm a Developer, recently mainly in JavaScript, al
 
 ## Working patterns
 
-I don’t think I’m a morning person. Sometimes, I try to get in earlier so I can clear some tasks before they get lost in the day. I'm always open for a chat - feel free to come talk to me about something, just be aware sometimes you might have to bring a coffee.
+I don’t think I’m a morning person. Sometimes, I try to get in earlier so I can clear some tasks before they get lost in the day.  
 
-![Gif - Black Books - Bernard talking about coffee](https://media.tumblr.com/36d81edc1ee59bb42b7bc0fd7fa6a7fd/tumblr_inline_mrst1cRUJF1qz4rgp.gif)
+I enjoy pairing and mobbing on tickets and problems. I tend to set timers when doing so, to remind us to swap over and not accidentally 'take over' driving for the whole day. 
 
-Breaks are good, team lunch is great. I understand getting in the zone, but if we're not taking enough breaks, we should remind each other.
-
-It’s important for me to separate work from the rest of life, and I want everyone else to have that balance too. If I send you a message outside of working hours, or accidentally on your day off, trust that I’m sending it before I forget and it’s not a pressure on you to return it.
+It’s important for me to separate work from the rest of life, and I want everyone else to have that balance too. If I send you a message outside of working hours, or accidentally on your day off, trust that I’m sending it before I forget and I don't intend any pressure on you to return it.
 
 ## Feedback
 
@@ -22,21 +20,21 @@ Written feedback is useful for me to look back on, and to use in reviews. If you
 
 ![Gif - Miranda - Tilly's "Bear with"](https://media.giphy.com/media/Mmk9ZcHKg31kY/giphy.gif)
 
-## 1:1s
-
-AND Digital is the first company I have worked for where I have regular 1:1s, so I'm still getting used to it. I like having some structure to plan the discussion around and keep track of what we've covered before.
-
 ---
 
 ## Other things to know
 
 - I use a French keyboard (remind me to switch to UK for you if we're pairing)
-- I enjoy proofreading
 - Please [spell](https://twitter.com/Iwillleavenow/status/1040728713548034048?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1040728713548034048&ref_url=https%3A%2F%2Fwww.huffingtonpost.co.uk%2Fentry%2Fpeople-keep-spelling-your-name-wrong-on-email-this-is-the-way-to-respond_uk_5b9f6a6ae4b046313fbc9568) my name correctly, and correct me if I have spelled or mispronounced yours.
 - I prefer quick chats at desk or in breakout areas. For meetings, I like a clear agenda beforehand
 - My accent sometimes changes depending on who I'm talking to, which can catch people out the first time they hear it
-- A sloth moves three times faster in trees than on the ground
+
+## Current Interests / Projects
+
+A11y
+
+Trying to install Ubuntu on an old PowerMac
 
 ---
 
-Any questions or suggestions for changes, ping me on Slack or find me at Friday Fun.
+Any questions or suggestions for changes, ping me on Slack or come say hi  
